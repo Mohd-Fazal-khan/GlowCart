@@ -70,6 +70,10 @@ GlowCart leverages the power of TypeScript for robust code quality, and includes
 
 ---
 
+## Demo Video
+https://drive.google.com/file/d/1ZeUGGtHD0n98O0Nsuc3njLtlhOaWfLPa/view
+---
+
 
 ## Installation
 
