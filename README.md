@@ -6,6 +6,8 @@ GlowCart aims to deliver a fast, intuitive, and visually appealing interface for
 
 GlowCart leverages the power of TypeScript for robust code quality, and includes custom UI components to ensure a unique look and feel. Whether you are a developer looking to extend its functionality or a user seeking a smooth shopping journey, GlowCart provides a solid foundation for modern mobile commerce.
 
+**⏱ Time Taken to Build:** Approximately 5–6 hours  
+
 ## Table of Contents
 
 - [Features](#features)
@@ -26,6 +28,7 @@ GlowCart leverages the power of TypeScript for robust code quality, and includes
 - Product listing and details
 - Wishlist management
 - Profile management
+- Product Filtering
 - Onboarding experience
 - Offers and promotions
 - Custom UI components
@@ -33,7 +36,40 @@ GlowCart leverages the power of TypeScript for robust code quality, and includes
 
 ## Screenshots
 
-_Add screenshots of the app here (e.g., Home Screen, Product Details, Login/Register, Wishlist, etc.)_
+## Screenshots
+
+### Onboarding & Login
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9810975-94dc-403a-a0a9-3ca13a8fad83" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c0af1bc5-4100-45cd-8c5b-e6b8dfe7ed2f" width="45%" />
+</p>
+
+### Register & Home
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/902618b9-665e-4bdc-829e-5ef1667116a6" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d222b7f7-c902-4d54-a518-eff0b9a9b9f9" width="45%" />
+</p>
+
+### Product Details
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ec7d142-dda2-4c30-affd-bf7363c3f1ec" width="45%" />
+  <img src="https://github.com/user-attachments/assets/061d90cf-2b47-4dc3-8e4c-e021054df83d" width="45%" />
+</p>
+
+### Offers & Wishlist
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15912cf6-0f02-4950-8ce8-d8a73b1f3a6f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2986a5da-24b1-44c1-b1d5-15aa4b45debc" width="45%" />
+</p>
+
+### Profile
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67e6b068-f51c-44b8-b84d-1daa7319618b" width="45%" />
+</p>
+
+
+---
+
 
 ## Installation
 
@@ -159,3 +195,7 @@ npm test
 ## License
 
 This project is licensed under the MIT License.
+
+## Created By
+
+Mohd Fazal Khan
