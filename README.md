@@ -2,6 +2,10 @@
 
 GlowCart is a modern e-commerce mobile application built with React Native, designed to provide a seamless shopping experience for users on both Android and iOS platforms.
 
+GlowCart aims to deliver a fast, intuitive, and visually appealing interface for online shopping. With a focus on user experience, the app integrates essential e-commerce features such as product browsing, secure authentication, wishlist management, and personalized offers. The project is structured for scalability and maintainability, making it ideal for both learning and real-world deployment.
+
+GlowCart leverages the power of TypeScript for robust code quality, and includes custom UI components to ensure a unique look and feel. Whether you are a developer looking to extend its functionality or a user seeking a smooth shopping journey, GlowCart provides a solid foundation for modern mobile commerce.
+
 ## Table of Contents
 
 - [Features](#features)
@@ -44,7 +48,7 @@ _Add screenshots of the app here (e.g., Home Screen, Product Details, Login/Regi
 
 1. Clone the repository:
    ```powershell
-   git clone <repo-url>
+   git clone https://github.com/Mohd-Fazal-khan/GlowCart.git
    cd GlowCart
    ```
 2. Install dependencies:
