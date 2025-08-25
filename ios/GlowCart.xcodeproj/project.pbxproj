@@ -11,6 +11,13 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		10FC8C99B79245929D5210CD /* Inter_18pt-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5CE874F786D94A56AD814366 /* Inter_18pt-Medium.ttf */; };
+		BCBDA9469B004CE7AD29D5CB /* Inter_18pt-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 983C380C74464354A17041D0 /* Inter_18pt-Regular.ttf */; };
+		AF60464D36D541F88DF18E28 /* Inter_18pt-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6EC8759DB4E1449299F7E852 /* Inter_18pt-SemiBold.ttf */; };
+		F7302C5C55284EBE82B937D5 /* Italiana-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A08B1839597944FFA70AE878 /* Italiana-Regular.ttf */; };
+		6296CAB2477345D892876F49 /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 995DCE3108554B56A1534A10 /* PlayfairDisplay-Bold.ttf */; };
+		5A95E5A6C11048D79E90A422 /* PlayfairDisplay-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2614702D19C54E91999B41B1 /* PlayfairDisplay-ExtraBold.ttf */; };
+		13A096AC4B934E5484E15FC9 /* SpaceMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E0219C6CEC344FEEAF8D0FB0 /* SpaceMono-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = GlowCart/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = GlowCart/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		5CE874F786D94A56AD814366 /* Inter_18pt-Medium.ttf */ = {isa = PBXFileReference; name = "Inter_18pt-Medium.ttf"; path = "../src/assets/fonts/Inter_18pt-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		983C380C74464354A17041D0 /* Inter_18pt-Regular.ttf */ = {isa = PBXFileReference; name = "Inter_18pt-Regular.ttf"; path = "../src/assets/fonts/Inter_18pt-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6EC8759DB4E1449299F7E852 /* Inter_18pt-SemiBold.ttf */ = {isa = PBXFileReference; name = "Inter_18pt-SemiBold.ttf"; path = "../src/assets/fonts/Inter_18pt-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A08B1839597944FFA70AE878 /* Italiana-Regular.ttf */ = {isa = PBXFileReference; name = "Italiana-Regular.ttf"; path = "../src/assets/fonts/Italiana-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		995DCE3108554B56A1534A10 /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Bold.ttf"; path = "../src/assets/fonts/PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2614702D19C54E91999B41B1 /* PlayfairDisplay-ExtraBold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-ExtraBold.ttf"; path = "../src/assets/fonts/PlayfairDisplay-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E0219C6CEC344FEEAF8D0FB0 /* SpaceMono-Regular.ttf */ = {isa = PBXFileReference; name = "SpaceMono-Regular.ttf"; path = "../src/assets/fonts/SpaceMono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +88,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				6749CD27CDA94768A15DD0EF /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +111,21 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		6749CD27CDA94768A15DD0EF /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				5CE874F786D94A56AD814366 /* Inter_18pt-Medium.ttf */,
+				983C380C74464354A17041D0 /* Inter_18pt-Regular.ttf */,
+				6EC8759DB4E1449299F7E852 /* Inter_18pt-SemiBold.ttf */,
+				A08B1839597944FFA70AE878 /* Italiana-Regular.ttf */,
+				995DCE3108554B56A1534A10 /* PlayfairDisplay-Bold.ttf */,
+				2614702D19C54E91999B41B1 /* PlayfairDisplay-ExtraBold.ttf */,
+				E0219C6CEC344FEEAF8D0FB0 /* SpaceMono-Regular.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -159,6 +189,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				10FC8C99B79245929D5210CD /* Inter_18pt-Medium.ttf in Resources */,
+				BCBDA9469B004CE7AD29D5CB /* Inter_18pt-Regular.ttf in Resources */,
+				AF60464D36D541F88DF18E28 /* Inter_18pt-SemiBold.ttf in Resources */,
+				F7302C5C55284EBE82B937D5 /* Italiana-Regular.ttf in Resources */,
+				6296CAB2477345D892876F49 /* PlayfairDisplay-Bold.ttf in Resources */,
+				5A95E5A6C11048D79E90A422 /* PlayfairDisplay-ExtraBold.ttf in Resources */,
+				13A096AC4B934E5484E15FC9 /* SpaceMono-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,21 @@
+export const Colors = {
+ PRIMARY:"#B84953",
+ WHITE:"#fff",
+ Body:"#FFEDE8",
+ HeaderText:"#AD7373",
+ Backgroud:"#F1B0B0",
+ black:"#000",
+ Imagebackground:"#E2B8C5",
+ Gray:"#4B4B4B",
+ Darkgray:"#333333",
+ Lightgray:"#888",
+ Placeholder:"#989696",
+ Border:"#666",
+ Blue:"#1877F2",
+ SecondaryBorder:"#ccc",
+ Secondary:"#CC3D3D",
+ Onboardbackground:"#E2C0BB",
+ IconColor:"#9CA3AF",
+ Subtext:"#7D7D7D",
+ IconGray:"#636363"
+};
